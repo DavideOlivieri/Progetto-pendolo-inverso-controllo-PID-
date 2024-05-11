@@ -12,26 +12,9 @@ in questo modo è possibile determinare la posizione relativa del carrello rispe
 (come ad esempio una parete), e quindi, in una seconda fase applicare un controllo anche sulla posizione 
 del carrello. 
 
-### Schema del sistema carrello-pendolo
-<a href="1"><img src="https://github.com/DavideOlivieri/Progetto-pendolo-inverso-controllo-PID-/assets/83114199/4956e1ca-0d9b-49f6-ba42-27272d0bd540" align="left" height="400" width="500" ></a> 
-
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-
+## Schema del sistema carrello-pendolo
+<a href="1"><img src="https://github.com/DavideOlivieri/Progetto-pendolo-inverso-controllo-PID-/assets/83114199/4956e1ca-0d9b-49f6-ba42-27272d0bd540" height="400" width="500" ></a> 
+<a href="1"><img src="https://github.com/DavideOlivieri/Progetto-pendolo-inverso-controllo-PID-/assets/83114199/fa4ceac8-003e-4e9b-b4f7-05e8eab0e83a" height="400" width="500" ></a> 
 
 ***
 
